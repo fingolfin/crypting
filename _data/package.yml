@@ -1,5 +1,5 @@
 name: crypting
-version: 0.3
+version: 0.4
 date: 05/03/2017
 description: Hashes and Crypto in GAP
 
@@ -24,7 +24,7 @@ packageinfo: https://gap-packages.github.io/crypting/PackageInfo.g
 
 downloads:
     - name: .tar.gz
-      url: https://github.com/gap-packages/crypting/releases/download/v0.3/crypting-0.3.tar.gz
+      url: https://github.com/gap-packages/crypting/releases/download/v0.4/crypting-0.4.tar.gz
 
 abstract: 
 

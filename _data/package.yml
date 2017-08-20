@@ -1,5 +1,5 @@
 name: crypting
-version: 0.5
+version: 0.6
 date: 20/08/2017
 description: Hashes and Crypto in GAP
 
@@ -11,7 +11,7 @@ maintainers:
     - name: Markus Pfeiffer
       url: http://www.morphism.de/~markusp/
 
-GAP: ">= 4.8"
+GAP: ">= 4.9"
 
 needed-pkgs:
     - name: "GAPDoc"
@@ -24,7 +24,7 @@ packageinfo: https://gap-packages.github.io/crypting/PackageInfo.g
 
 downloads:
     - name: .tar.gz
-      url: https://github.com/gap-packages/crypting/releases/download/v0.5/crypting-0.5.tar.gz
+      url: https://github.com/gap-packages/crypting/releases/download/v0.6/crypting-0.6.tar.gz
 
 abstract: 
 
